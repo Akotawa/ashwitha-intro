@@ -11,9 +11,9 @@ I enjoy building reliable, scalable software and exploring practical AI.
 - Interests: Generative AI & real-world applications
 
 ## Projects
-- [Laundry Management System](#) – Angular + Spring Boot full-stack web app.  
-- [LEGO Database Analysis](#) – SQL + Tableau project analyzing LEGO trends.  
-- [Generative AI Research](#) – Explored GPT, GANs, and VAEs for synthetic spatio-temporal data.
+- [Laundry Management System] – Angular + Spring Boot full-stack web app.  
+- [LEGO Database Analysis] – SQL + Tableau project analyzing LEGO trends.  
+- [Generative AI Research] – Explored GPT, GANs, and VAEs for synthetic spatio-temporal data.
   
 ## Connect with me  
 - GitHub: [Akotawa](https://github.com/Akotawa)  
