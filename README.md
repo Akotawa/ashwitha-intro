@@ -9,6 +9,6 @@ I enjoy building reliable, scalable software and exploring practical AI.
 - Backend/DB: Java, Python, SQL, MongoDB, MySQL
 - Cloud/Tools: AWS, Docker, Git/GitHub
 - Interests: Generative AI & real-world applications
-## Links
-- GitHub: https://github.com/Akotawa
-- LinkedIn: https://www.linkedin.com/in/akotawar/
+## 📫 Connect with me  
+- GitHub: [Akotawa](https://github.com/Akotawa)  
+- Email: ashwithakotawar1999@gmail.com
