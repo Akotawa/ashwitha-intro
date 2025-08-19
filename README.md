@@ -4,7 +4,7 @@ I have 3+ years of experience across full-stack development, backend performance
 I enjoy building reliable, scalable software and exploring practical AI.
 ## Highlights
 - MS in Computer Science (Illinois State University, GPA 3.8)
-- 3+ years industry experience 
+- 3+ years experience 
 - Frontend: React, TypeScript
 - Backend/DB: Java, Python, SQL, MongoDB, MySQL
 - Cloud/Tools: AWS, Docker, Git/GitHub
